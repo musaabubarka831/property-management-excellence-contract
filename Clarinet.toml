@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/service-delivery-and-quality-assurance.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.tenant-satisfaction-and-retention-optimization]
+path = 'contracts/tenant-satisfaction-and-retention-optimization.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
